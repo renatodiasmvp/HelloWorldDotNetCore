@@ -1,0 +1,14 @@
+C:\Users\j_ren\Documents\Helloworld\bin\Debug\netcoreapp2.2\Helloworld.deps.json
+C:\Users\j_ren\Documents\Helloworld\bin\Debug\netcoreapp2.2\Helloworld.runtimeconfig.json
+C:\Users\j_ren\Documents\Helloworld\bin\Debug\netcoreapp2.2\Helloworld.runtimeconfig.dev.json
+C:\Users\j_ren\Documents\Helloworld\bin\Debug\netcoreapp2.2\Helloworld.dll
+C:\Users\j_ren\Documents\Helloworld\bin\Debug\netcoreapp2.2\Helloworld.pdb
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.csprojAssemblyReference.cache
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.RazorAssemblyInfo.cache
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.RazorAssemblyInfo.cs
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.AssemblyInfoInputs.cache
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.AssemblyInfo.cs
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.RazorTargetAssemblyInfo.cache
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.dll
+C:\Users\j_ren\Documents\Helloworld\obj\Debug\netcoreapp2.2\Helloworld.pdb
